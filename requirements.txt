@@ -1,0 +1,4 @@
+bs4
+lxml
+fake-useragent
+stealth-requests
